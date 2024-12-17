@@ -1,5 +1,6 @@
-﻿
-Main, (120-180 credits):
+﻿# Total 180 credits
+
+Main, (minimum 120 credits):
 ✅	Calculus of variations and advanced calculus (M820)		30 credits
 ❌	Analytic number theory 1 (M823)							30 credits
 ❌	Advanced mathematical methods (M833)					30 credits
@@ -17,7 +18,7 @@ Main, (120-180 credits):
 
 ---------------
 
-Optional, (max 60 credits):
+Optional, (0-60 credits):
 ❌	Investment and portfolio management (B818)					30 credits
 ❌	Derivatives and risk management (B819)						30 credits
 ❌	Creating evidence-based value in people management (B812)	30 credits
