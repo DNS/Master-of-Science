@@ -1,0 +1,22 @@
+﻿MIT
+
+
+# Quantum Physics
+https://ocw.mit.edu/search/?q=Quantum
+
+https://ocw.mit.edu/courses/8-321-quantum-theory-i-fall-2017/
+https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/
+https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2005/
+https://ocw.mit.edu/courses/6-845-quantum-complexity-theory-fall-2010/
+https://ocw.mit.edu/courses/5-73-quantum-mechanics-i-fall-2018/
+
+# Quantum Computation
+https://ocw.mit.edu/courses/18-435j-quantum-computation-fall-2003/
+
+# Quantum Optical Communication
+https://ocw.mit.edu/courses/6-453-quantum-optical-communication-fall-2016/
+
+# Quantum Information Science
+https://ocw.mit.edu/courses/mas-865j-quantum-information-science-spring-2006/
+
+
