@@ -1,0 +1,107 @@
+﻿
+Main, (120-180 credits):
+✅	Calculus of variations and advanced calculus (M820)		30 credits
+❌	Analytic number theory 1 (M823)							30 credits
+❌	Advanced mathematical methods (M833)					30 credits
+❌	Fractal geometry  (M835)								30 credits
+
+✅	Manufacture, materials design (T805)					30 credits
+⛔	Finite element analysis (T808)							30 credits
+❌	Environmental monitoring and protection (T868)			30 credits
+❌	Making environmental decisions (T891)					30 credits
+
+✅	Space science (S818)									60 credits
+❌	Environmental science challenges (S831)					30 credits
+
+✅	Quantum and statistical mechanics of matter (SM880)		30 credits
+
+---------------
+
+Optional, (max 60 credits):
+❌	Investment and portfolio management (B818)					30 credits
+❌	Derivatives and risk management (B819)						30 credits
+❌	Creating evidence-based value in people management (B812)	30 credits
+❌	Supply chain management (BB849)								30 credits
+✅	Strategic capabilities for technological innovation (T849)	30 credits
+❌	Understanding global development (DD870)					30 credits
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=================================
+
+Environmental science challenges (S831)				30 credits
+Environmental monitoring and protection (T868)		30 credits
+Making environmental decisions (T891)				30 credits
+
+Analytic number theory 1 (M823)						30 credits
+Advanced mathematical methods (M833)				30 credits
+
+
+
+
+Introduction to finite element analysis
+https://www.open.edu/openlearn/science-maths-technology/introduction-finite-element-analysis/content-section-0
+
+
+IELTS (English) minimum 7
+
+
+
+-----------------------
+MIT courseware
+
+# Quantum Physics
+https://ocw.mit.edu/search/?q=Quantum
+
+https://ocw.mit.edu/courses/8-321-quantum-theory-i-fall-2017/
+https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/
+https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2005/
+https://ocw.mit.edu/courses/6-845-quantum-complexity-theory-fall-2010/
+https://ocw.mit.edu/courses/5-73-quantum-mechanics-i-fall-2018/
+
+# Quantum Computation
+https://ocw.mit.edu/courses/18-435j-quantum-computation-fall-2003/
+
+# Quantum Optical Communication
+https://ocw.mit.edu/courses/6-453-quantum-optical-communication-fall-2016/
+
+# Quantum Information Science
+https://ocw.mit.edu/courses/mas-865j-quantum-information-science-spring-2006/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
