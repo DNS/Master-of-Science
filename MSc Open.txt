@@ -4,7 +4,7 @@ Main, (minimum 120 credits):
 ✅	Calculus of variations and advanced calculus (M820)		30 credits
 ❌	Analytic number theory 1 (M823)							30 credits
 ❌	Advanced mathematical methods (M833)					30 credits
-❌	Fractal geometry  (M835)								30 credits
+✅	Fractal geometry  (M835)								30 credits
 
 ✅	Manufacture, materials design (T805)					30 credits
 ⛔	Finite element analysis (T808)							30 credits
@@ -13,7 +13,6 @@ Main, (minimum 120 credits):
 
 ✅	Space science (S818)									60 credits
 ❌	Environmental science challenges (S831)					30 credits
-
 ✅	Quantum and statistical mechanics of matter (SM880)		30 credits
 
 ---------------
@@ -23,7 +22,7 @@ Optional, (0-60 credits):
 ❌	Derivatives and risk management (B819)						30 credits
 ❌	Creating evidence-based value in people management (B812)	30 credits
 ❌	Supply chain management (BB849)								30 credits
-✅	Strategic capabilities for technological innovation (T849)	30 credits
+❌	Strategic capabilities for technological innovation (T849)	30 credits
 ❌	Understanding global development (DD870)					30 credits
 
 
