@@ -1,0 +1,22 @@
+﻿Modules
+
+To gain this qualification, you need 180 credits as follows:
+
+
+# 150 credits from:
+✅	Advanced mathematical methods (M833)
+✅	Calculus of variations and advanced calculus (M820)
+✅	Analytic number theory I (M823)
+⛔	Analytic number theory II (M829)
+❌	Coding theory (M836)
+✅	Fractal geometry (M835)
+⛔	Galois theory (M838)
+⛔	Nonlinear ordinary differential equations (M821)
+✅	Quantum and statistical mechanics of matter (SM880)
+
+# 30 credits from:
+✅	Dissertation in mathematics (M840)
+
+
+
+

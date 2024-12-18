@@ -1,9 +1,9 @@
 ﻿# Total 180 credits
 
-Main, (minimum 120 credits):
+Compulsory, (minimum 120 credits):
 ✅	Calculus of variations and advanced calculus (M820)		30 credits
-❌	Analytic number theory 1 (M823)							30 credits
-❌	Advanced mathematical methods (M833)					30 credits
+✅	Analytic number theory 1 (M823)							30 credits
+✅	Advanced mathematical methods (M833)					30 credits
 ✅	Fractal geometry  (M835)								30 credits
 
 ✅	Manufacture, materials design (T805)					30 credits
@@ -11,9 +11,9 @@ Main, (minimum 120 credits):
 ❌	Environmental monitoring and protection (T868)			30 credits
 ❌	Making environmental decisions (T891)					30 credits
 
-✅	Space science (S818)									60 credits
+❌	Space science (S818)									60 credits
 ❌	Environmental science challenges (S831)					30 credits
-✅	Quantum and statistical mechanics of matter (SM880)		30 credits
+❌	Quantum and statistical mechanics of matter (SM880)		30 credits
 
 ---------------
 
