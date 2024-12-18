@@ -3,7 +3,7 @@
 To gain this qualification, you need 180 credits as follows:
 
 
-# 150 credits from:
+# 150 credits from (each 30 credits):
 ✅	Advanced mathematical methods (M833)
 ✅	Calculus of variations and advanced calculus (M820)
 ✅	Analytic number theory I (M823)
