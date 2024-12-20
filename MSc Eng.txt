@@ -1,0 +1,40 @@
+﻿Stage 1 (120 credits)
+
+
+# 90 credits from:
+❌	Project management (M815)
+✅	Calculus of variations and advanced calculus (M820)
+⛔	Deterministic and stochastic dynamics (MS327)
+⛔	Mathematical methods and fluid mechanics (MST326)
+✅	Manufacture materials design (T805)
+⛔	Finite element analysis: principles and applications (T808)
+✅	Strategic capabilities for technological innovation (T849)
+❌	Environmental monitoring and protection (T868)
+❌	Making environmental decisions (T891)
+❌	Sustainable organisations: theory and practice (T892)
+❌	Technology innovation management (TB801)
+❌	Making strategy with systems thinking in practice (TB871)
+❌	Managing change with systems thinking in practice (TB872)
+
+
+
+# 30 credits from:
+✅	Team engineering (T885)
+
+--------------
+Stage 2 (60 credits)
+❌	Research project (T802)			60 credits
+
+Or 60 credits from:
+✅	Project management (M815)
+✅	MSc project: researching in context (T803)
+
+
+
+
+==============================================
+# Manupedia
+https://www.open.edu/openlearn/manupedia
+
+
+
