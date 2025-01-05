@@ -2,11 +2,11 @@
 
 ⮞ Linkedin popularity (k):		total				topuniversities.com		easy entry
 arizona su		929		611		$32010				200						✅
-u florida		596		357		$21772				215
+u florida		596		357		$21772				215						✅
 u open			475		253		$18260										✅
 u pennsylvania	518		208							11
 u london		287		146
-u people		272		 37		$4860
+u people		272		 37		$4860										(avoid)
 east texas A&M	 72		 62							154
 american pu		 50		 28
 hertfordshire	206		154							851
