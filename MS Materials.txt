@@ -1,0 +1,83 @@
+﻿
+ASU
+
+# Core
+✅	Advanced Materials Characterization
+✅	Concepts in Materials Science
+✅	Phase Transformations, Kinetics and Diffusion in Solids
+
+# Elective
+❌	Electron Microscopy I
+✅	Quantum Mechanics: Atoms and Solids
+
+
+------------------------
+
+UFL
+
+
+# MSE Core (12 credits)
+❌	EMA 6001 Properties of Materials (3 credits)
+✅	EMA 6313 Materials Structure and Mechanical Properties (3 credits)
+✅	EMA 6114 Functional Properties of Materials (3 credits)
+✅	EMA 6316 Materials Thermodynamics (3 credits)
+✅	EMA 6136 Diffusion, Kinetics, & Transport (3 credits)
+❌	EMA 6507 Scanning Electron Microscopy (3 credits)
+⛔	EMA 6936 Seminar in Materials Science and Engineering (1 credit)
+
+# MSE Electives (9 credits)
+
+# Non-MSE Electives (9 credits)
+
+# professor
+https://mse.ufl.edu/people/?cn-s=&cn-cat=3
+
+# academic advisor
+https://mse.ufl.edu/people/?cn-s=&cn-cat=7
+
+
+
+Courses numbered EMA 7979 and EMA 7980 are not eligible to count toward any M.S. degree program. 
+
+All Master’s students (thesis and non-thesis) are required to pass a final examination. The final 
+examination should be no more than 6 months before degree is awarded. The M.S. non-thesis 
+students satisfy this requirement by submitting a technical paper, see 
+http://www.mse.ufl.edu/masters-non-thesis/.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://catalog.ufl.edu/UGRD/courses/materials_science_and_engineering/
+https://catalog.ufl.edu/UGRD/colleges-schools/UGENG/MSE_BSMS/#approvedelectivestext
+
+
+
+
+
+
+
+
+
+
+
+
+# time limit 7 years
+
+
