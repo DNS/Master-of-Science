@@ -1,15 +1,14 @@
 ﻿https://www.topuniversities.com/world-university-rankings
 
 ⮞ Linkedin popularity (k):		total				topuniversities.com		easy entry
-arizona su		929		611		$32010				200						✅
-u florida		596		357		$21772				215						✅
+arizona su		929		611		$36158				200						✅
+u florida		596		357		$16560				215						✅
 u open			475		253		$18260										✅
 u pennsylvania	518		208							11
 u london		287		146
 u people		272		 37		$4860										(avoid)
-east texas A&M	 72		 62							154
-american pu		 50		 28
-hertfordshire	206		154							851
+texas A&M		 72		 62							154
+american pu		 50		 28		$16380										✅
 johns hopkins	361		138							32
 urbana c		578		390		$38658				69
 c florida											741
@@ -225,9 +224,13 @@ non thesis: 34 -> $26588
 
 https://catalog.utep.edu/grad/college-of-science/college-science-deans-office/computational-science-ms/?utm_source=mcprogram-grad-page&utm_medium=website&utm_content=computational-science-ms
 
- 	
 
 
+----------------------------
 
+American Public University System
 
+Information Technology
+
+https://www.apu.apus.edu/online-masters-programs/master-of-science-in-information-technology/
 
