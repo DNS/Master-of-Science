@@ -1,0 +1,12 @@
+﻿
+# S2
+
+BINUS	M Information Tech	108jt
+UPH		M Informatics		 65jt
+ASU		M Materials			589jt
+UFL		M Materials			269jt
+OPEN	M Mathematics		297jt
+OPEN	M Open-STEM			297jt
+URBANA	M Chemical Eng		630jt
+
+
