@@ -1,6 +1,6 @@
 ﻿https://www.topuniversities.com/world-university-rankings
 
-⮞ Linkedin popularity (k):		total				topuniversities.com		easy entry
+⮞ Linkedin popularity (k):		total				topuniversities.com		easy-entry
 arizona su		929		611		$36158				200						✅
 u florida		596		357		$16560				215						✅
 u open			475		253		$18260										✅
@@ -15,7 +15,11 @@ c florida											741
 delaware						
 u bath							$16333
 oregon su						$28485
-binus							$6100
+u tx paso						26588
+binus u							$6100										✅ (4 semester)
+uph								$4000										✅ (3 semester)
+
+
 
 https://www.forbes.com/top-colleges/
 
@@ -47,8 +51,11 @@ Civil Engineering
 Electrical and Computer Engineering 	 	Master of Science
 Electrical and Computer Engineering 	 	Master of Engineering
 Industrial and Systems Engineering
-Materials Science and Engineering			30 credits
-Mechanical Engineering
+
+Industrial and Systems Engineering 		 	Master of Science
+Industrial and Systems Engineering 			Master of Engineering
+Materials Science and Engineering 		 	Master of Science
+Mechanical Engineering						Master of Science
 
 https://ufedge.ufl.edu/online-graduate-programs/tuition-fees/
 https://www.sfa.ufl.edu/cost/graduate-costs/

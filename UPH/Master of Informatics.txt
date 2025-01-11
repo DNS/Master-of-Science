@@ -1,0 +1,26 @@
+﻿The Master of Informatics program at UPH (Universitas Pelita Harapan) offers a comprehensive 36-credit curriculum with pathways in coursework and research. The coursework pathway provides a deep understanding of informatics, while the research pathway allows for original research contributions. Key subjects include Artificial Intelligence, Medical Informatics, Cloud Computing, Blockchain, and Data Science. Students gain practical and theoretical knowledge, exploring AI, health information systems, cloud architecture, and more. Involvement in IEEE’s international network offers collaboration opportunities. Supervised by faculty with doctoral degrees from the UK, Australia, and Japan, students are prepared to meet IT industry demands.
+
+
+36-credit
+
+# 1 year
+✅	Research Methodology 2
+✅	Cloud Computing & Virtualization 3
+✅	Machine Learning 4
+✅	Computational Intelligence 3
+
+✅	Research Proposal 2
+✅	Big Data Technology 3
+✅	IoT Analytics 3
+✅	Advanced Artificial Intelligence (Optional) 4
+❌	Analytics Visualization (Optional) 4
+
+
+# 2 year
+✅	Scientific Publication 2
+✅	Thesis 6
+❌	Blockchain Technology (Optional) 4
+✅	Deep Learning Technology (Optional) 4
+
+
+
