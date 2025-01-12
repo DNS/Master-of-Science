@@ -5,8 +5,8 @@
 ❌	JHU-US		AC.Mathematics		859jt
 ❌	JHU-US		CS					859jt
 ❌	JHU-US		AI					859jt
-4??	URBANA-US 	Chemical Eng LD		630jt
-❌	URBANA-US	CS					393jt
+4??	UIURBANA-US Chemical Eng LD		630jt
+❌	UIURBANA-US	CS					393jt
 #3	AZSU-US		Materials SE		589jt
 #2	UFL-US		Materials SE		269jt
 ❌	ORSU-US		CS					464jt
