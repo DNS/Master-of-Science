@@ -9,14 +9,14 @@ u london		287		146
 u people		272		 37		$4860										❌ (AVOID AT ALL COST)
 texas A&M		 72		 62							154
 american pu		 50		 28		$16380										✅
-johns hopkins	361		138							32
-urbana c		578		390		$38658				69
+johns hopkins	361		138		$52700				32
+urbana c		578		390		$19840-24128,38658				69
 c florida											741
 delaware						
 u bath							$16333
 oregon su						$28485
 u tx paso						26588
-binus u							$6100										✅ (4 semester)
+binus u							$6100										✅ (3 semester)
 uph								$4000										✅ (3 semester)
 
 

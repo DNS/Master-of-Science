@@ -1,12 +1,28 @@
 ﻿
-# S2
+# S2 total cost 2024-2025
 
-BINUS	M Information Tech	108jt
-UPH		M Informatics		 65jt
-ASU		M Materials			589jt
-UFL		M Materials			269jt
-OPEN	M Mathematics		297jt
-OPEN	M Open-STEM			297jt
-URBANA	M Chemical Eng		630jt
+JHU		A.C. Mathematics	859jt	
+JHU		A. Physics			859jt
+JHU		Artif. Intelligence	859jt		
+JHU		Computer Sci.		859jt
+JHU		Materials S.E.		859jt
+JHU		Systems E.			859jt
+JHU		App. 				859jt
+URBANA 	Chemical E. LD.		630jt
+AZ SU	Materials S.E.		589jt
+OR SU	Computer Sci.		464jt
+URBANA	Computer Sci.		323-393jt
+OPEN	Open-STEM			297jt
+OPEN	Engineering			293jt
+OPEN	Computing			277jt
+OPEN	Mathematics			247jt
+UFL		Materials S.E.		269jt
+AM PU	Information Tech.	266jt
+BINUS	Information Tech.	108jt
+UPH		Informatics		 	 65jt
+
+
+
+
 
 
