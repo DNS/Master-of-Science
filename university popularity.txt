@@ -13,8 +13,8 @@ johns hopkins	361		138		$52700				32
 urbana c		578		390		$19840-24128,38658				69
 c florida											741
 delaware						
-u bath							$16333
-oregon su						$28485
+u bath			175		109		$16333
+oregon su		236		174		$28485
 u tx paso						26588
 binus u							$6100										✅ (3 semester)
 uph								$4000										✅ (3 semester)
@@ -65,6 +65,15 @@ https://admissions.ufl.edu/apply/graduate/
 https://ufedge.ufl.edu/online-graduate-programs/courses/
 
 $725.75 * 30 = $21772
+
+
+-------------------------------
+
+
+# John's Hopkins University
+
+https://e-catalogue.jhu.edu/programs/#filter=.filter_4&.filter_19
+
 
 
 -------------------------------

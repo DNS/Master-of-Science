@@ -1,28 +1,27 @@
 ﻿
 # S2 total cost 2024-2025
 
-JHU		A.C. Mathematics	859jt	
-JHU		A. Physics			859jt
-JHU		Artif. Intelligence	859jt		
-JHU		Computer Sci.		859jt
-JHU		Materials S.E.		859jt
-JHU		Systems E.			859jt
-JHU		App. 				859jt
-URBANA 	Chemical E. LD.		630jt
-AZ SU	Materials S.E.		589jt
-OR SU	Computer Sci.		464jt
-URBANA	Computer Sci.		323-393jt
-OPEN	Open-STEM			297jt
-OPEN	Engineering			293jt
-OPEN	Computing			277jt
-OPEN	Mathematics			247jt
-UFL		Materials S.E.		269jt
-AM PU	Information Tech.	266jt
-BINUS	Information Tech.	108jt
-UPH		Informatics		 	 65jt
-
-
-
+❌	JHU-US		A.Physics			859jt
+❌	JHU-US		AC.Mathematics		859jt
+❌	JHU-US		AI					859jt
+❌	JHU-US		CompSci				859jt
+→	JHU-US		Materials SE		859jt
+→	URBANA-US 	Chemical Eng LD		630jt
+	URBANA-US	CompSci				393jt
+→	AZSU-US		Materials SE		589jt
+→	UFL-US		Materials SE		269jt
+	ORSU-US		CompSci				464jt
+✅	OPEN-UK		Open-STEM			297jt
+✅	OPEN-UK		Engineering			293jt
+✅	OPEN-UK		Computing			277jt
+✅	OPEN-UK		Mathematics			247jt
+	APUS-US		IT					266jt
+	APUS-US		Military Studies	266jt
+	APUS-US		Intelligence Stud.	266jt
+	BATH-UK		CompSci				143jt
+	BATH-UK		AI					143jt
+❌	BINUS-ID	IT					108jt
+✅	UPH-ID		Informatics			 65jt
 
 
 
