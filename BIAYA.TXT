@@ -1,23 +1,23 @@
-﻿# S2 priority + total cost (2024)
+﻿# S2 priority + total cost (2024 price)
 
 ❌	JHU-US		A.Physics			859jt
 #1	JHU-US		Materials SE		859jt
 ❌	JHU-US		AC.Mathematics		859jt
 ❌	JHU-US		CS					859jt
 ❌	JHU-US		AI					859jt
-4??	UIURBANA-US Chemical Eng LD		630jt
-❌	UIURBANA-US	CS					393jt
+#4?	UIUC-US		Chemical Eng LD		630jt
+❌	UIUC-US		CS					393jt
 #3	AZSU-US		Materials SE		589jt
 #2	UFL-US		Materials SE		269jt
 ❌	ORSU-US		CS					464jt
 #5	OPEN-UK		Open STEM			297jt
 ❌	OPEN-UK		Engineering			293jt
 ❌	OPEN-UK		Computing			277jt
-6??	OPEN-UK		Mathematics			247jt
-❌	APUS-US		IT					266jt
+#6	OPEN-UK		Mathematics			247jt
+#7	APUS-US		IT					266jt
 ❌	APUS-US		Military Studies	266jt
 ❌	BATH-UK		CS					143jt
-#7	BATH-UK		AI					143jt
+#10	BATH-UK		AI					143jt
 #9	BINUS-ID	IT					108jt
 #8	UPH-ID		Informatics			 65jt
 
