@@ -2,32 +2,33 @@
 
 No.	University		Course			IDR
 -----------------------------------------
-⛔	PURDUE-US		Materials Eng	-
-#	PURDUE-US		Software Eng	464jt
-❌	PURDUE-US		Computer Sci	489jt
-❌	JHU-US			A. Physics		859jt
-#	JHU-US			Materials SE	859jt
-#	COLUMBIA-US		Materials SE
-#	MICHIGAN-US		Materials SE
-#	USC-US			Materials SE
-#	USC-US			Computer Sci
-#	URBANA-US		Chemical E LD	630jt
-❌	URBANA-US		Computer Sc		393jt
-#	AZSU-US			Materials SE	589jt
-#	UFL-US			Materials SE	269jt
+#4	PURDUE-US		Software Eng	 464jt
+#4	PURDUE-US		Computer Sci	 489jt
+#2	JHU-US			A. Physics		 859jt
+#1	JHU-US			Materials SE	 859jt
+#1	STANFORD-US		Materials SE	1141jt
+#3	STANFORD-US		Chemical Eng	1141jt
+#1	COLUMBIA-US		Materials SE	1329jt
+#3	COLUMBIA-US		Chemical Eng	1329jt
+#1	USC-US			Materials SE
+#2	USC-US			Computer Sci
+#3	URBANACHAMP-US	Chemical Eng LD	 630jt
+#4	URBANACHAMP-US	Computer Sci	 393jt
+#1	AZSU-US			Materials SE	 589jt
+#1	UFL-US			Materials SE	 269jt
 	NCSU-US			Materials SE
+	MICHIGAN-US		Materials SE
 	UAZ				Materials SE
 	RIVERSIDE-US	Materials SE
-	OSU
-	MTU
-❌	ORSU-US			Computer Sci	464jt
-#	OPEN-UK			Open STEM		297jt
-❌	OPEN-UK			Mathematics		247jt
-❌	APUS-US			IT				266jt
-❌	BATH-UK			Computer Sci	143jt
-❌	BATH-UK			AI				143jt
-#	BINUS-ID		IT				108jt
-#	UPH-ID			Informatics		 65jt
+	MTU				Materials SE
+	ORSU-US			Computer Sci	 464jt
+#3	OPEN-UK			Open STEM		 297jt
+	OPEN-UK			Mathematics		 247jt
+❌	APUS-US			IT				 266jt
+❌	BATH-UK			Computer Sci	 143jt
+❌	BATH-UK			AI				 143jt
+#6	BINUS-ID		IT				 108jt
+#5	UPH-ID			Informatics		  65jt
 
 
 ▪ US universities sometimes need 2-3 letters of recommendation.
