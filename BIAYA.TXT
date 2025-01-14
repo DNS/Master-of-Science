@@ -11,13 +11,13 @@ No.	University		Course			IDR
 #	MICHIGAN-US		Materials SE
 #	USC-US			Materials SE
 #	USC-US			Computer Sci
-#	UIURBANA-US		Chemical E LD	630jt
-❌	UIURBANA-US		Computer Sc		393jt
+#	URBANA-US		Chemical E LD	630jt
+❌	URBANA-US		Computer Sc		393jt
 #	AZSU-US			Materials SE	589jt
 #	UFL-US			Materials SE	269jt
 	NCSU-US			Materials SE
 	UAZ				Materials SE
-	UCRIVERSIDE-US	Materials SE
+	RIVERSIDE-US	Materials SE
 	OSU
 	MTU
 ❌	ORSU-US			Computer Sci	464jt
