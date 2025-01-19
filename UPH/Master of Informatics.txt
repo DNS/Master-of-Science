@@ -3,7 +3,7 @@
 
 36-credit (3 semesters)
 
-# 1 year
+# 1st year
 ✅	Research Methodology 2
 ✅	Cloud Computing & Virtualization 3
 ✅	Machine Learning 4
@@ -16,7 +16,7 @@
 ❌	Analytics Visualization (Optional) 4
 
 
-# 2 year
+# 2nd year
 ✅	Scientific Publication 2
 ✅	Thesis 6
 ❌	Blockchain Technology (Optional) 4
