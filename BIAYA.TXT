@@ -1,39 +1,71 @@
-﻿S2 priority + total cost (2024)
+﻿S2 priority & total cost (2024)
 
-No	University		Major			IDR
+#	University		Major			IDR
 -----------------------------------------
-	PURDUE-US		Software Eng	 464jt
-	PURDUE-US		Computer Sci	 489jt
-#1	JHU-US			A. Physics		 859jt
-#2	JHU-US			Materials SE	 859jt
+
 #2	STANFORD-US		Materials SE	1141jt
 #3	STANFORD-US		Chemical Eng	1141jt
+#1	JHU-US			A. Physics		 859jt
+#2	JHU-US			Materials SE	 859jt
 #2	COLUMBIA-US		Materials SE	1329jt
 #3	COLUMBIA-US		Chemical Eng	1329jt
-#2	USC-US			Materials SE
-	USC-US			Computer Sci
-#3	URBANACHAMP-US	Chemical Eng LD	 630jt
-	URBANACHAMP-US	Computer Sci	 393jt
+#3	URBANACHA-US	Chemical Eng LD	 630jt
+	URBANACHA-US	Computer Sci	 393jt
+	PURDUE-US		Software Eng	 464jt
+	PURDUE-US		Computer Sci	 489jt
+#2	USC-US			Materials Eng	1640jt
+#3	USC-US			Chemical Eng	1640jt
 #2	AZSU-US			Materials SE	 589jt
 #2	UFL-US			Materials SE	 269jt
-	NCSU-US			Materials SE
-	MICHIGAN-US		Materials SE
-	UAZ				Materials SE
-	RIVERSIDE-US	Materials SE
-	MTU				Materials SE
 	ORSU-US			Computer Sci	 464jt
+#5	MONASH-AU		Data Science	 448jt
+	MONASH-AU		Cyber Security	 448jt
 #4	OPEN-UK			Open STEM		 297jt
 	OPEN-UK			Mathematics		 247jt
-	MONASH-AU		Data Science	 448jt
-	MONASH-AU		Cyber Security	 448jt
 	APUS-US			IT				 266jt
 	BATH-UK			Computer Sci	 143jt
 	BATH-UK			AI				 143jt
-#6	BINUS-ID		IT				 108jt
-#5	UPH-ID			Informatics		  65jt
+#7	BINUS-ID		IT				 108jt
+#6	UPH-ID			Informatics		  65jt
 
 
 
 ▪ US universities sometimes need 2-3 letters of recommendation.
+
+
+
+---------------------
+
+https://online.usc.edu/programs/
+
+USC - Master of Science in Materials Engineering
+
+
+Career Opportunities
+
+A variety of career opportunities exist, but primarily in the areas of:
+
+    Pharmaceuticals
+    Tissue Engineering
+    Oil and Gas
+    Commerce
+    Consultancy
+    Public Health Agencies
+    Combustion
+    Petrochemicals
+    Project Delivery
+    Process Control
+    Petroleum
+    Minerals
+    Environmental Agencies
+
+---------------------
+    
+https://msse.berkeley.edu/
+Master of Molecular Science and Software Engineering
+
+https://ischoolonline.berkeley.edu/
+Master of Information and Data Science (MIDS)
+Master of Information and Cybersecurity (MICS)
 
 
