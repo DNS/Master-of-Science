@@ -3,30 +3,30 @@
 #	University		Major			IDR
 -----------------------------------------
 
-#2	STANFORD-US		Materials SE	1141jt
-#3	STANFORD-US		Chemical Eng	1141jt
-#1	JHU-US			A. Physics		 859jt
-#2	JHU-US			Materials SE	 859jt
-#2	COLUMBIA-US		Materials SE	1329jt
-#3	COLUMBIA-US		Chemical Eng	1329jt
-#3	URBANACHA-US	Chemical Eng LD	 630jt
-	URBANACHA-US	Computer Sci	 393jt
-	PURDUE-US		Software Eng	 464jt
+	STANFORD-US		Materials SE	1141jt
+	STANFORD-US		Chemical Eng	1141jt
+	JHU-US			A. Physics		 859jt
+	JHU-US			Materials SE	 859jt
+	COLUMBIA-US		Materials SE	1329jt
+	COLUMBIA-US		Chemical Eng	1329jt
+	URBANACHA-US	Chemical Eng LD	 630jt
+#1	URBANACHA-US	Computer Sci	 393jt
+#2	PURDUE-US		Software Eng	 464jt
 	PURDUE-US		Computer Sci	 489jt
-#2	USC-US			Materials Eng	1640jt
-#3	USC-US			Chemical Eng	1640jt
-#2	AZSU-US			Materials SE	 589jt
-#2	UFL-US			Materials SE	 269jt
+	USC-US			Materials Eng	1640jt
+	USC-US			Chemical Eng	1640jt
+	AZSU-US			Materials SE	 589jt
+#3	UFL-US			Materials SE	 269jt
 	ORSU-US			Computer Sci	 464jt
-#5	MONASH-AU		Data Science	 448jt
+#4	MONASH-AU		Data Science	 448jt
 	MONASH-AU		Cyber Security	 448jt
-#4	OPEN-UK			Open STEM		 297jt
+	OPEN-UK			Open STEM		 297jt
 	OPEN-UK			Mathematics		 247jt
 	APUS-US			IT				 266jt
 	BATH-UK			Computer Sci	 143jt
 	BATH-UK			AI				 143jt
-#7	BINUS-ID		IT				 108jt
-#6	UPH-ID			Informatics		  65jt
+	BINUS-ID		IT				 108jt
+	UPH-ID			Informatics		  65jt
 
 
 
