@@ -1,36 +1,80 @@
 ﻿S2 priority & total cost (2024)
 
-#	University		Major			IDR
------------------------------------------
-
-	STANFORD-US		Materials SE	1141jt
-	STANFORD-US		Chemical Eng	1141jt
-	JHU-US			A. Physics		 859jt
-	JHU-US			Materials SE	 859jt
-	COLUMBIA-US		Materials SE	1329jt
-	COLUMBIA-US		Chemical Eng	1329jt
-	URBANACHA-US	Chemical Eng LD	 630jt
-#1	URBANACHA-US	Computer Sci	 393jt
-#2	PURDUE-US		Software Eng	 464jt
-	PURDUE-US		Computer Sci	 489jt
-	USC-US			Materials Eng	1640jt
-	USC-US			Chemical Eng	1640jt
-	AZSU-US			Materials SE	 589jt
-#3	UFL-US			Materials SE	 269jt
-	ORSU-US			Computer Sci	 464jt
-#4	MONASH-AU		Data Science	 448jt
-	MONASH-AU		Cyber Security	 448jt
-	OPEN-UK			Open STEM		 297jt
-	OPEN-UK			Mathematics		 247jt
-	APUS-US			IT				 266jt
-	BATH-UK			Computer Sci	 143jt
-	BATH-UK			AI				 143jt
-	BINUS-ID		IT				 108jt
+#	University		Major			IDR		Rank
+-------------------------------------------------
+	STANFORD-US		Materials SE	1141jt	6
+	STANFORD-US		Chemical Eng	1141jt	6
+	JHU-US			A. Physics		 859jt	16
+	JHU-US			Materials SE	 859jt	16
+	COLUMBIA-US		Materials SE	1329jt	18
+	COLUMBIA-US		Chemical Eng	1329jt	18
+	URBANACHAMP-US	Chemical Eng LD	 630jt	46
+#1	URBANACHAMP-US	Computer Sci	 393jt	46	(no thesis)
+#3	MONASH-AU		Data Science	 448jt	58
+	MONASH-AU		Cyber Security	 448jt	58
+	USC-US			Materials Eng	1640jt	72
+	USC-US			Chemical Eng	1640jt	72
+#4	PURDUE-US		Software Eng	 464jt	79
+	PURDUE-US		Computer Sci	 489jt	79
+	LEEDS-UK		Data Science	 123jt	123
+#2	UFL-US			Materials SE	 269jt	130
+	UAZ				Cyber Security	 716jt	136
+	UAZ				Materials SE	 452jt	136
+	UAZ				Software Eng	 486jt	136
+	AZSU-US			Materials SE	 589jt	201
+	BATH-UK			Computer Sci	 263jt	251
+	BATH-UK			AI				 263jt	251
+	GRIFFITH-AU		Data Science	 192jt	301
+	USQ-AU			Data Science	 181jt	351
+	OPEN-UK			Open STEM		 297jt	801
+	OPEN-UK			Mathematics		 247jt	801
+	BINUS-ID		IT				 108jt	1201
 	UPH-ID			Informatics		  65jt
 
+	ULONDON-UK		
 
 
 ▪ US universities sometimes need 2-3 letters of recommendation.
+
+
+---------------------
+
+https://siebelschool.illinois.edu/admissions/graduate/applications-process-requirements
+https://siebelschool.illinois.edu/admissions/graduate/faqs/online-mcs-faqs
+
+https://uiucmcs.org/
+
+https://www.reddit.com/r/UIUC_MCS/comments/1c0evdf/accepted_with_22_gpa/
+https://www.reddit.com/r/UIUC_MCS/comments/sm2og5/mcs_admittance_statistics_oncampus_and_online/
+
+# good ranking
+https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking
+
+# QS -> invalid ranking
+https://www.topuniversities.com/world-university-rankings
+
+---------------------
+
+URBANA CHAMP
+
+MCS
+MCS Requirements: Artificial Intelligence
+										Reviews Difficulty (1‑5) Workload (hrs/wk) Rating (1‑5)
+CS 441	Applied Machine Learning		36		2.3 			8.1					2.7	
+CS 445	Computational Photography		9		3.9 			16.8				4.8	
+CS 598	Deep Learning for Healthcare	30		3.5 			12.1				3	
+CS 447	Natural Language Processing		12		3.6 			15.7				3.9	
+
+
+MCS-DS
+MCS-DS Requirements: Machine Learning
+
+										Reviews Difficulty (1‑5) Workload (hrs/wk) Rating (1‑5)
+CS 525	Advanced Distributed Systems	1		5				16					5	
+CS 441	Applied Machine Learning		36		2.3 			8.1					2.7	
+CS 445	Computational Photography		9		3.9 			16.8				4.8	
+CS 598	Deep Learning for Healthcare	30		3.5 			12.1				3	
+CS 447	Natural Language Processing		12		3.6 			15.7				3.9	
 
 
 
@@ -68,4 +112,8 @@ https://ischoolonline.berkeley.edu/
 Master of Information and Data Science (MIDS)
 Master of Information and Cybersecurity (MICS)
 
+
+---------------------
+
+https://en.wikipedia.org/wiki/Peter_principle
 
