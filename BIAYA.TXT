@@ -8,8 +8,8 @@
 	JHU-US			Materials SE	 859jt	16
 	COLUMBIA-US		Materials SE	1329jt	18
 	COLUMBIA-US		Chemical Eng	1329jt	18
-	URBANACHAMP-US	Chemical Eng LD	 630jt	46
-#1	URBANACHAMP-US	Computer Sci	 393jt	46	(no thesis)
+	URBANACHAMP-US	Chemical Eng L	 630jt	46
+#1	URBANACHAMP-US	Computer Sci	 393jt	46
 #3	MONASH-AU		Data Science	 448jt	58
 	MONASH-AU		Cyber Security	 448jt	58
 	USC-US			Materials Eng	1640jt	72
@@ -18,20 +18,20 @@
 	PURDUE-US		Computer Sci	 489jt	79
 	LEEDS-UK		Data Science	 123jt	123
 #2	UFL-US			Materials SE	 269jt	130
-	UAZ				Cyber Security	 716jt	136
-	UAZ				Materials SE	 452jt	136
-	UAZ				Software Eng	 486jt	136
+	UAZ-US			Cyber Security	 716jt	136
+	UAZ-US			Materials SE	 452jt	136
+	UAZ-US			Software Eng	 486jt	136
 	AZSU-US			Materials SE	 589jt	201
 	BATH-UK			Computer Sci	 263jt	251
 	BATH-UK			AI				 263jt	251
 	GRIFFITH-AU		Data Science	 192jt	301
 	USQ-AU			Data Science	 181jt	351
+	BIRKBECK-UK		Computer Sci	213jt	301
 	OPEN-UK			Open STEM		 297jt	801
 	OPEN-UK			Mathematics		 247jt	801
 	BINUS-ID		IT				 108jt	1201
 	UPH-ID			Informatics		  65jt
-
-	ULONDON-UK		
+	
 
 
 ▪ US universities sometimes need 2-3 letters of recommendation.
@@ -49,6 +49,7 @@ https://www.reddit.com/r/UIUC_MCS/comments/sm2og5/mcs_admittance_statistics_onca
 
 # good ranking
 https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking
+https://www.usnews.com/best-graduate-schools/top-engineering-schools/eng-rankings
 
 # QS -> invalid ranking
 https://www.topuniversities.com/world-university-rankings
