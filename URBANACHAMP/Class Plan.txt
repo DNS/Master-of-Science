@@ -1,0 +1,32 @@
+﻿
+
+
+# Must complete three courses (12 credit hours). 
+CS 598 Practical Statistical Learning*
+CS 598 Advanced Bayesian Modeling 
+CS 598 Deep Learning for Healthcare
+CS 598 Data Mining Capstone*
+
+# AI, ML
+CS 441 Applied Machine Learning
+CS 445 Computational Photography
+CS 447 Natural Language Processing
+CS 598 Deep Learning for Healthcare
+
+# Electives
+CS 484 Parallel Computing
+CS 427 Software Engineering I
+CS 450 Numerical Analysis
+CS 463 Computer Security II
+CS 425 Distributed Systems (Cloud Computing Concepts: Parts 1 & 2)
+CS 435 Cloud Networking
+CS 437 Internet of Things
+CS 498 Cloud Computing Applications (Cloud Computing Applications: Parts 1 & 2)
+
+
+
+
+
+
+
+
